@@ -1,16 +1,11 @@
-# quiz_app
+Simple quiz app
 
-A new Flutter project.
+Project:
+This project is a quiz application. A user logs into their account, and chooses a short multiple-choice and true\false questions quiz to take from a variety of topics and then sends the request to the webserver, the webserver will then send the questions to the user from its question bank. After completing the quiz, the app displays the result of that quiz and will add the result to the user’s total score. 
 
-## Getting Started
+Features:
+• User logs in to their account.
+• The user can keep track of their total score.
+• A wide variety of questions the user can choose from.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tools: Flutter - Firebase - Dart - Android Emulator
